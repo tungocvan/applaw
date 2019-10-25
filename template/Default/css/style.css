@@ -939,8 +939,8 @@ span.sp2 {
 }
 .partner{
     /* border-top: 2px solid #e1e1e1; */
-    margin-top: 30px;
-    padding-top: 50px;
+    /* margin-top: 30px; */
+    padding-top: 10px;
 }
 .social.social-ft span{
     display: block;
