@@ -48,3 +48,6 @@ span.xemthemskkd {
     height: 32px;
     padding-left: 2px;
 }
+#content img {
+    max-width: 100%;
+}
